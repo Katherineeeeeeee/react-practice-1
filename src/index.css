@@ -13,3 +13,16 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.header-title{
+  font-size: 24px;
+  color: darkred;
+  text-align: center;
+}
+
+.section-content{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: beige;
+}
