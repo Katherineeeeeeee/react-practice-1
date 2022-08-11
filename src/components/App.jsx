@@ -1,6 +1,6 @@
 import Section from './Section/Section';
 import PostList from './PostList/PostList';
-import post from 'database/post';
+import post from 'database/post.js';
 
 export const App = () => {
   return (
