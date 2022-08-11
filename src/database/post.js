@@ -1,4 +1,4 @@
-export default [
+const array = [
   {
     id: 1,
     title: 'title',
@@ -34,3 +34,4 @@ export default [
     url: 'https://funart.pro/uploads/posts/2021-07/1626223063_20-funart-pro-p-belii-britanskii-kot-s-golubimi-glazami-zh-29.jpg',
   },
 ];
+export default array;
